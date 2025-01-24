@@ -8,9 +8,11 @@ Dennis Komba, a third-year Copperbelt University student, specializes in AI, dee
 </br>
 means of communication :- 
 </br>
-Instagram <link a=""><img  width="4%" alt="my instagram" src="https://github.com/user-attachments/assets/6d9459ef-4ccc-4755-a130-2d3e3a880c9d"></link>
+Instagram 
+</br><link a=""><img  width="10%" alt="my instagram" src="https://github.com/user-attachments/assets/6d9459ef-4ccc-4755-a130-2d3e3a880c9d"></link>
 </br>
-Facebook<link a="" ><img width="4%" alt="my-fb" src="https://github.com/user-attachments/assets/11efbe64-bacd-4842-b72c-0c2f34f2745b"></link>
+Facebook
+</br><link a="" ><img width="10%" alt="my-fb" src="https://github.com/user-attachments/assets/11efbe64-bacd-4842-b72c-0c2f34f2745b"></link>
 </br>
 AI deeplearning
 </br>
