@@ -1,20 +1,10 @@
-AM DENNIS
 
+AM DENNIS
 Dennis Komba, a third-year Copperbelt University student, specializes in AI, deep learning, and machine learning. Skilled in JavaScript, Python, C++, and Dart, he develops web and mobile applications using React.js, Django, MySQL, and SQLite. His expertise spans AI solutions, dynamic web platforms, and intuitive mobile app development.
 
 <img alt="my user-stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=DENNIS-cod&show_icons=true">
 <img alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENNIS-cod&layout=donut">
 </br>
-</br>
-means of communication :- 
-</br>
-Instagram 
-</br><link a=""><img  width="10%" alt="my instagram" src="https://github.com/user-attachments/assets/6d9459ef-4ccc-4755-a130-2d3e3a880c9d"></link>
-</br>
-Facebook
-</br><link a="" ><img width="10%" alt="my-fb" src="https://github.com/user-attachments/assets/11efbe64-bacd-4842-b72c-0c2f34f2745b"></link>
-</br>
-AI deeplearning
 </br>
 
 Tools
@@ -26,3 +16,38 @@ Tools
 libraries:-
 </br>
 -Pytorch library, sikit learn, panda library, numpy and tensor flow
+<h1> The projects for this month</h1>
+<div className="">
+  <div id="ActiveP" className="container">
+  <h2>Machine learning </h2>
+  <p>
+    <ul>
+      <li>AI driven fraud prevention in Online Banking Authentication</li>
+      <li>Detection of fake product listing</li>
+      <li>Predicting Fake Insurance</li>
+      <li>Behavioural analysis for predicting Suspicious Tansaction in E-wallets</li>
+    </ul>
+  </p>
+</div>
+<div id="webdesign">
+  <h2>Websites</h2>
+  <p>
+    <ul>
+      <li>CoreTrust's business Websites</li>
+      <li>Resturant and Motor Vehicle templates</li>
+    </ul>
+  </p>
+</div>
+<div id="tour">
+  <h2>Business </h2>
+  <p>
+    <ul>
+      <li>Tourism Business</li>
+      <li>Restuarant Business</li>
+      <li>Hotel Business</li>
+      <li>Motor Vehicle Bs</li>
+    </ul>
+  </p>
+</div>
+
+</div>
