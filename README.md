@@ -2,9 +2,15 @@
 AM DENNIS
 <br>
 Dennis Komba, a third-year Copperbelt University student, specializes in AI, deep learning, and machine learning. Skilled in JavaScript, Python, C++, and Dart, he develops web and mobile applications using React.js, Django, MySQL, and SQLite. His expertise spans AI solutions, dynamic web platforms, and intuitive mobile app development.
+<br>
+<br>
+<a href="https://wavelineinvestment.co.za/"> sample<a>
+<br>
+<a href="https://stackblitzstartersvoizpu94-ue0e--8080--d20a0a75.local-credentialless.webcontainer.io"> worked sample </a>
+
 
 <img alt="my user-stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=DENNIS-cod&show_icons=true">
-<img alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENNIS-cod&layout=donut">
+<img alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENNIS-cod&layout=donut"width>
 </br>
 </br>
 
